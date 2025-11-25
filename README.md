@@ -23,7 +23,6 @@
 
 ## 1. Structural Similarity Index (SSIM): 0.5032
 
-Scale: 0 to 1
 
 ###### 1.0 = exactly same 
 ###### 0.8–1.0 = very similar 
@@ -49,7 +48,6 @@ Scale: -1 to 1
 ###### < 0.5 = not similar
 
 ## 4. Feature-based Similarity: 133 matches
-(ORB/SIFT keypoints)
 
 Interpretation:
 ###### 0–20 = not similar
